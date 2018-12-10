@@ -1,0 +1,47 @@
+body {
+	font-family: Courier;
+	margin: 0 auto;
+	width: 800px;
+}
+
+html {
+	background-color: #e3e3e3;
+}
+
+p {
+	font-size: 20px;
+}
+
+a:link {
+	color: #34637B;
+}
+
+a:visited {
+	color: #428951;
+}
+
+a:hover {
+	color: #7e7e7e;
+}
+
+.HP, .tracks {
+	width: 500px;
+	margin-left: 150px;
+}
+
+.light, .library, .train, .bite, .bed {
+	width: 800px;
+}
+
+.indent {
+	margin-left: 50px;
+}
+
+.menu {
+	text-align: center;
+	font-size: 15px;
+}
+
+#noun {
+	font-size: 15px;
+}
